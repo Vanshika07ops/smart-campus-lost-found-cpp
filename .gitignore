@@ -1,0 +1,13 @@
+# Compiled files
+*.exe
+*.o
+lostfound
+a.out
+
+# Data files created when the program runs
+items.txt
+students.txt
+report.txt
+
+# VS Code settings
+.vscode/
